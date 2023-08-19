@@ -1,2 +1,2 @@
 # html-portofolio
-My first made website using html language.
+My own made website using html language.
